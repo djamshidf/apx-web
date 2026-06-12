@@ -8,27 +8,27 @@ gsap.registerPlugin(ScrollTrigger);
 const projects = [
   {
     image: '/images/project-tashkent.jpg',
-    name: 'Toshkent Sanoat Solar Stansiyasi',
-    location: 'Toshkent viloyati',
-    capacity: '5 MW',
+    name: 'Suv nasoslari uchun',
+    location: 'Namangan viloyati',
+    capacity: '180 KW',
     description:
-      "Yirik sanoat korxonasining tomida o'rnatilgan 5 MW quvvatli quyosh elektr stansiyasi. Yillik 7.5 GWh toza energiya ishlab chiqaradi.",
+      "Aholining yirik qismini hamda fermer xo'jaliklari uchun suv yetkazib berish stansiyasi. Yillik 288 MWh toza energiya ishlab chiqaradi.",
   },
   {
     image: '/images/project-samarkand.jpg',
-    name: 'Samarqand Quyosh Elektr Stansiyasi',
-    location: 'Samarqand viloyati',
-    capacity: '10 MW',
+    name: 'Kosonsoy yashil maydon fermer xo'jaligi',
+    location: 'Namangan viloyati',
+    capacity: '140 kW',
     description:
-      "Samarqand viloyatida qurilgan 10 MW quvvatli yer ustidagi quyosh elektr stansiyasi. 15,000 dan ortiq uy xo'jaligini elektr energiyasi bilan ta'minlaydi.",
+      "Kosonsoy tumanida qurilgan 140 kW quvvatli yer ustidagi quyosh elektr stansiyasi. Fermer xo'jaligini to'liq suv bilan ta'minlaydi, qolgan payt esa passiv daromad olib keladi.",
   },
   {
     image: '/images/project-bukhara.jpg',
-    name: 'Buxoro Irrigatsiya Energiya Tizimi',
-    location: 'Buxoro viloyati',
-    capacity: '2 MW',
+    name: 'Isparon qishlog'iga yordamchi energiya stansiyasi',
+    location: 'Namangan viloyati',
+    capacity: '400 kW',
     description:
-      "Buxoro viloyatida qishloq xo'jaligi irrigatsiya tizimlari uchun 2 MW quvvatli quyosh stansiyasi. 500 gektar yer sug'orishni ta'minlaydi.",
+      "Isparon qishloq aholisi uchun 400 kW quvvatli quyosh stansiyasi. 150ga yaqin xonadonlarni elektr bilan ta'minlashga yordamlashadi.",
   },
 ];
 
@@ -84,7 +84,7 @@ export default function Projects() {
             className="font-heading font-bold text-dark-navy leading-[1.2]"
             style={{ fontSize: 'clamp(28px, 4vw, 40px)' }}
           >
-            Amalga Oshirilgan Loyihalar
+            Oxirgi Amalga Oshirilgan Loyihalar
           </h2>
           <p className="text-text-dark leading-relaxed max-w-[560px] mt-3">
             Bizning loyihalarimiz O&apos;zbekistonning turli viloyatlarida joylashgan va turli

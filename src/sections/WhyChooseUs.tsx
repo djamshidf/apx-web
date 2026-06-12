@@ -9,7 +9,7 @@ const advantages = [
     number: '01',
     title: 'Tajribali Mutaxassislar Jamoasi',
     description:
-      "Bizning jamoamiz quyosh energetikasi sohasida 10+ yillik tajribaga ega muhandislar va loyiha menejerlaridan iborat. Har bir loyiha uchun maxsus loyiha guruhi tashkil etiladi.",
+      "Bizning jamoamiz quyosh energetikasi sohasida 5+ yillik tajribaga ega muhandislar va loyiha menejerlaridan iborat. Har bir loyiha uchun maxsus loyiha guruhi tashkil etiladi.",
     image: '/images/team-engineers.jpg',
     imageAlt: 'Tajribali muhandislar quyosh panellarini tekshirmoqda',
   },
@@ -17,7 +17,7 @@ const advantages = [
     number: '02',
     title: 'Sifatli va Sertifikatlangan Jihozlar',
     description:
-      "Faqat dunyoning yetakchi brendlaridan (JinkoSolar, Huawei, LONGi, Trina Solar) O'zbekiston uchun sertifikatlangan jihozlarni yetkazib beramiz. Har bir komponent 25 yillik kafolat bilan ta'minlanadi.",
+      "Faqat dunyoning yetakchi brendlaridan (JinkoSolar, LONGi, Solis, AUXSOL, Sungrow, Leader) O'zbekiston uchun sertifikatlangan jihozlarni yetkazib beramiz. Har bir komponent to'liq kafolat bilan ta'minlanadi.",
     image: '/images/solar-panels-quality.jpg',
     imageAlt: 'Sifatli sertifikatlangan quyosh panellari',
   },
@@ -118,7 +118,7 @@ export default function WhyChooseUs() {
           <div className="flex items-center gap-3 mb-4">
             <div className="w-8 h-0.5 bg-golden-yellow" />
             <span className="text-xs font-medium uppercase tracking-[0.12em] text-golden-yellow">
-              Nima uchun APEX POWER?
+              Nimaga aynan APEX POWER?
             </span>
           </div>
           <h2

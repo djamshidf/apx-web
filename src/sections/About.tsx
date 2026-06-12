@@ -132,21 +132,21 @@ export default function About() {
           <div ref={statsRef} className="flex flex-wrap items-center gap-6 md:gap-10 mt-9">
             <div>
               <p className="font-mono text-2xl md:text-[28px] text-golden-yellow">
-                <CountUp end={50} suffix="+" trigger={statsVisible} />
+                <CountUp end={300} suffix="+" trigger={statsVisible} />
               </p>
-              <p className="text-xs text-text-muted uppercase tracking-wider mt-1">Yakunlangan loyiha</p>
+              <p className="text-xs text-text-muted uppercase tracking-wider mt-1">Yakunlangan loyihalar</p>
             </div>
             <div className="hidden md:block w-px h-10 bg-dark-navy/10" />
             <div>
               <p className="font-mono text-2xl md:text-[28px] text-golden-yellow">
-                <CountUp end={30} suffix="+ MW" trigger={statsVisible} />
+                <CountUp end={8} suffix="+ MW" trigger={statsVisible} />
               </p>
               <p className="text-xs text-text-muted uppercase tracking-wider mt-1">O&apos;rnatilgan quvvat</p>
             </div>
             <div className="hidden md:block w-px h-10 bg-dark-navy/10" />
             <div>
               <p className="font-mono text-2xl md:text-[28px] text-golden-yellow">
-                <CountUp end={10} suffix=" yil+" trigger={statsVisible} />
+                <CountUp end={5} suffix=" yil+" trigger={statsVisible} />
               </p>
               <p className="text-xs text-text-muted uppercase tracking-wider mt-1">Mutaxassis tajribasi</p>
             </div>

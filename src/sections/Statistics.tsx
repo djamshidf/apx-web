@@ -88,9 +88,9 @@ export default function Statistics() {
   }, []);
 
   const stats = [
-    { value: 50, suffix: '+', label: 'Yakunlangan loyiha' },
-    { value: 30, suffix: '+', label: "MW o'rnatilgan quvvat" },
-    { value: 25, suffix: '', label: 'Yillik kafolat' },
+    { value: 300, suffix: '+', label: 'Yakunlangan loyiha' },
+    { value: 8, suffix: '+', label: "MW o'rnatilgan quvvat" },
+    { value: 3, suffix: '', label: 'Yillik kafolat' },
     { value: 98, suffix: '%', label: 'Mijozlar mamnuniyati' },
   ];
 

@@ -16,13 +16,13 @@ const mainServices = [
     icon: Package,
     title: 'Jihozlar va Komponentlar',
     description:
-      "Dunyoning yetakchi ishlab chiqaruvchilaridan sifatli quyosh panellari, invertorlar, konstruksiyalar va kabel mahsulotlarini tanlash va yetkazib berish. Eng yaxshi narxlarda original sifat kafolati.",
+      "Dunyoning yetakchi ishlab chiqaruvchilaridan sifatli quyosh panellari, invertorlar, konstruksiyalar va kabel mahsulotlarini tanlash va yetkazib berish. Eng yaxshi narxlarda sifat kafolati.",
   },
   {
     icon: HardHat,
     title: 'Montaj va Qurilish Ishlari',
     description:
-      "Professional mutaxassislar jamoasi tomonidan stansiyaning to'liq qurilishi, panellar o'rnatilishi, elektr tizimlari montaji va komissiyalash. Ishlar O'zbekiston me'yorlari va xalqaro standartlar asosida.",
+      "Professional mutaxassislar jamoasi tomonidan stansiyaning to'liq qurilishi, panellar o'rnatilishi, elektr tizimlari montaji va tekshirilishi. Ishlar O'zbekiston me'yorlari va xalqaro standartlar asosida.",
   },
 ];
 
