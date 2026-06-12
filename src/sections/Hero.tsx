@@ -96,7 +96,7 @@ export default function Hero() {
         <div className="max-w-[700px] text-center">
           <p
             ref={labelRef}
-            className="text-[13px] font-medium uppercase tracking-[0.15em] text-dark-navy/60 mb-4"
+            className="text-[9px] font-medium uppercase tracking-[0.15em] text-dark-navy/60 mb-4"
           >
             Yashil energiya sohasida EPC kompaniya
           </p>
