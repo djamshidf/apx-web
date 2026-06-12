@@ -7,28 +7,28 @@ gsap.registerPlugin(ScrollTrigger);
 
 const projects = [
   {
-    image: '/images/project-tashkent.jpg',
-    name: 'Suv nasoslari uchun',
-    location: 'Namangan viloyati',
-    capacity: '180 KW',
+    image: "/images/project-tashkent.jpg",
+    name: "Suv nasoslari uchun",
+    location: "Namangan viloyati",
+    capacity: "180 kW",
     description:
       "Aholining yirik qismini hamda fermer xo'jaliklari uchun suv yetkazib berish stansiyasi. Yillik 288 MWh toza energiya ishlab chiqaradi.",
   },
   {
-    image: '/images/project-samarkand.jpg',
-    name: 'Kosonsoy yashil maydon fermer xo'jaligi',
-    location: 'Namangan viloyati',
-    capacity: '140 kW',
+    image: "/images/project-samarkand.jpg",
+    name: "Kosonsoy yashil maydon fermer xo'jaligi",
+    location: "Namangan viloyati",
+    capacity: "140 kW",
     description:
       "Kosonsoy tumanida qurilgan 140 kW quvvatli yer ustidagi quyosh elektr stansiyasi. Fermer xo'jaligini to'liq suv bilan ta'minlaydi, qolgan payt esa passiv daromad olib keladi.",
   },
   {
-    image: '/images/project-bukhara.jpg',
-    name: 'Isparon qishlog'iga yordamchi energiya stansiyasi',
-    location: 'Namangan viloyati',
-    capacity: '400 kW',
+    image: "/images/project-bukhara.jpg",
+    name: "Isparon qishlog'iga yordamchi energiya stansiyasi",
+    location: "Namangan viloyati",
+    capacity: "400 kW",
     description:
-      "Isparon qishloq aholisi uchun 400 kW quvvatli quyosh stansiyasi. 150ga yaqin xonadonlarni elektr bilan ta'minlashga yordamlashadi.",
+      "Isparon qishloq aholisi uchun 400 kW quvvatli quyosh stansiyasi. 150 ga yaqin xonadonlarni elektr bilan ta'minlashga yordamlashadi.",
   },
 ];
 
