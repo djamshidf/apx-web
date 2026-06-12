@@ -48,13 +48,16 @@ export default function Footer() {
   href="https://t.me/apex_power"
   target="_blank"
   rel="noopener noreferrer"
+  className="text-text-muted hover:text-golden-yellow transition-colors duration-300"
 >
   <TelegramIcon className="w-5 h-5" />
 </a>
-              <a
+
+<a
   href="https://www.instagram.com/apexpower.uz/"
   target="_blank"
   rel="noopener noreferrer"
+  className="text-text-muted hover:text-golden-yellow transition-colors duration-300"
 >
   <InstagramIcon className="w-5 h-5" />
 </a>
