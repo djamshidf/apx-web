@@ -48,17 +48,14 @@ export default function Footer() {
               </span>
             </div>
             <p className="text-text-muted text-sm leading-relaxed mb-6">
-              Kelajakni quyosh energiyasi bilan yoritamiz
+              Yashil energetika sohasida ishonchli hamkoringiz
             </p>
             <div className="flex items-center gap-4">
-              <a href="#" className="text-text-muted hover:text-golden-yellow transition-colors duration-300">
+              <a href="#https://t.me/apex_power" className="text-text-muted hover:text-golden-yellow transition-colors duration-300">
                 <TelegramIcon className="w-5 h-5" />
               </a>
-              <a href="#" className="text-text-muted hover:text-golden-yellow transition-colors duration-300">
+              <a href="#https://www.instagram.com/apexpower.uz/" className="text-text-muted hover:text-golden-yellow transition-colors duration-300">
                 <InstagramIcon className="w-5 h-5" />
-              </a>
-              <a href="#" className="text-text-muted hover:text-golden-yellow transition-colors duration-300">
-                <LinkedInIcon className="w-5 h-5" />
               </a>
             </div>
           </div>
@@ -83,7 +80,7 @@ export default function Footer() {
             <ul className="space-y-4">
               <li className="flex items-center gap-3">
                 <Phone className="w-4 h-4 text-golden-yellow flex-shrink-0" />
-                <span className="text-text-muted text-sm">+998 (XX) XXX-XX-XX</span>
+                <span className="text-text-muted text-sm">+998 (55) 500-00-33</span>
               </li>
               <li className="flex items-center gap-3">
                 <Mail className="w-4 h-4 text-golden-yellow flex-shrink-0" />
@@ -91,7 +88,7 @@ export default function Footer() {
               </li>
               <li className="flex items-center gap-3">
                 <MapPin className="w-4 h-4 text-golden-yellow flex-shrink-0" />
-                <span className="text-text-muted text-sm">Toshkent, O&apos;zbekiston</span>
+                <span className="text-text-muted text-sm">Namangan shaxri, A.Temur, 78-uy</span>
               </li>
             </ul>
           </div>
@@ -100,7 +97,7 @@ export default function Footer() {
         {/* Bottom bar */}
         <div className="mt-12 pt-6 border-t border-white/10 text-center">
           <p className="text-xs text-text-muted uppercase tracking-[0.05em]">
-            &copy; 2025 APEX POWER. Barcha huquqlar himoyalangan.
+            &copy; 2026 APEX POWER. Barcha huquqlar himoyalangan.
           </p>
         </div>
       </div>
