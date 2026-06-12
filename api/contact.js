@@ -38,8 +38,12 @@ ${message || 'Не указано'}
     const result = await telegramResponse.json();
 
     if (!result.ok) {
-      throw new Error('Telegram API error');
-    }
+  console.error('Telegram response:', result);
+
+  throw new Error(
+    `Telegram API error: ${JSON.stringify(result)}`
+  );
+}
 
     return res.status(200).json({
       success: true,
