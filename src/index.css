@@ -1,0 +1,64 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 30 100% 97%;
+    --foreground: 222 47% 11%;
+    --card: 30 100% 97%;
+    --card-foreground: 222 47% 11%;
+    --popover: 30 100% 97%;
+    --popover-foreground: 222 47% 11%;
+    --primary: 45 96% 55%;
+    --primary-foreground: 222 47% 11%;
+    --secondary: 174 52% 92%;
+    --secondary-foreground: 222 47% 11%;
+    --muted: 215 16% 47%;
+    --muted-foreground: 215 16% 47%;
+    --accent: 45 96% 55%;
+    --accent-foreground: 222 47% 11%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 222 47% 11% / 0.08;
+    --input: 222 47% 11% / 0.08;
+    --ring: 45 96% 55%;
+    --radius: 0.625rem;
+
+    --warm-white: #FFF7ED;
+    --golden-yellow: #FBBF24;
+    --deep-blue: #1E3A5F;
+    --dark-navy: #0F172A;
+    --cool-mint: #E0F2F1;
+    --text-dark: #1E293B;
+    --text-muted: #64748B;
+    --light-border: rgba(15, 23, 42, 0.08);
+  }
+
+  body {
+    @apply bg-[#FFF7ED] text-[#1E293B] antialiased;
+    font-family: 'Manrope', sans-serif;
+    overflow-x: hidden;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Manrope', sans-serif;
+    font-weight: 700;
+  }
+
+  .font-display {
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+  }
+
+  .font-mono {
+    font-family: 'Space Mono', monospace;
+    font-weight: 400;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
