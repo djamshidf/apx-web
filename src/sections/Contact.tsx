@@ -103,7 +103,6 @@ export default function Contact() {
     alert('Xatolik yuz berdi');
   }
 };
-  };
 
   const inputClasses =
     "w-full h-[52px] rounded-lg border border-warm-white/20 bg-warm-white/5 text-warm-white placeholder:text-warm-white/30 px-4 text-sm outline-none transition-colors duration-300 focus:border-golden-yellow";
