@@ -44,12 +44,20 @@ export default function Footer() {
               Yashil energetika sohasida ishonchli hamkoringiz
             </p>
             <div className="flex items-center gap-4">
-              <a href="#https://t.me/apex_power" className="text-text-muted hover:text-golden-yellow transition-colors duration-300">
-                <TelegramIcon className="w-5 h-5" />
-              </a>
-              <a href="#https://www.instagram.com/apexpower.uz/" className="text-text-muted hover:text-golden-yellow transition-colors duration-300">
-                <InstagramIcon className="w-5 h-5" />
-              </a>
+              <a
+  href="https://t.me/apex_power"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  <TelegramIcon className="w-5 h-5" />
+</a>
+              <a
+  href="https://www.instagram.com/apexpower.uz/"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  <InstagramIcon className="w-5 h-5" />
+</a>
             </div>
           </div>
 
