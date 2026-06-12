@@ -105,18 +105,18 @@ export default function About() {
             className="font-heading font-bold text-dark-navy leading-[1.2] mb-6"
             style={{ fontSize: 'clamp(28px, 4vw, 40px)' }}
           >
-            O&apos;zbekistonga Toza Energiya Olib Kelish Vazifasini Bajaruvchi Jamoa
+            O&apos;zbekiston Respublikasiga sifatli yashil energiya mahsulotlarini o'rnatadigan jamoa!
           </h2>
 
           <div className="space-y-4 text-text-dark leading-[1.7] max-w-[520px]">
             <p>
               APEX POWER — bu O&apos;zbekiston bo&apos;ylab quyosh elektr stansiyalarini tashkil etish
-              bo&apos;yicha maxsus EPC (Engineering, Procurement, Construction) kompaniyasi. Biz 2020-yildan
-              beri faoliyat yuritib kelmoqdamiz va shu vaqt ichida 50 dan ortiq muvaffaqiyatli loyiha
+              bo&apos;yicha maxsus EPC (Engineering, Procurement, Construction) kompaniyasi. Biz 2022-yildan
+              beri faoliyat yuritib kelmoqdamiz va shu vaqt ichida 300 dan ortiq muvaffaqiyatli loyihalarni
               yakunladik.
             </p>
             <p>
-              Bizning jamoamiz quyosh energetikasi sohasida 10 yillik tajribaga ega mutaxassislar,
+              Bizning jamoamiz yashil energetika sohasida 5 yillik tajribaga ega mutaxassislar,
               loyihalash muhandislari va qurilish menejerlaridan tashkil topgan. Har bir loyiha biz uchun
               nafaqat biznes, balki kelajak avlodlar uchun toza muhitni ta&apos;minlash imkoniyati.
             </p>
