@@ -98,7 +98,7 @@ export default function Hero() {
             ref={labelRef}
             className="text-[13px] font-medium uppercase tracking-[0.15em] text-dark-navy/60 mb-4"
           >
-            Quyosh Energiyasi EPC Kompaniyasi
+            Yashil energiya sohasida EPC kompaniya
           </p>
 
           <h1 className="font-display text-dark-navy leading-[1.1]" style={{ fontSize: 'clamp(48px, 7vw, 84px)' }}>
@@ -115,7 +115,7 @@ export default function Hero() {
             className="text-lg text-text-dark max-w-[540px] mx-auto mt-5 leading-relaxed"
           >
             APEX POWER — O&apos;zbekistonda quyosh elektr stansiyalarini loyihalash, qurish va ishga
-            tushirish bo&apos;yicha yetakchi EPC kompaniya.
+            tushirish bo&apos;yicha yetakchi EPC kompaniyalaridan biri.
           </p>
 
           <div ref={ctaRef} className="flex flex-wrap items-center justify-center gap-4 mt-9">
@@ -140,7 +140,7 @@ export default function Hero() {
             <div className="absolute top-0 left-1/2 -translate-x-1/2 w-1.5 h-1.5 rounded-full bg-golden-yellow animate-scroll-dot" />
           </div>
           <span className="text-[11px] text-text-muted uppercase tracking-[0.1em]">
-            Pastga aylantiring
+            Pastga tushing
           </span>
         </div>
       </div>
